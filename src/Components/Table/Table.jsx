@@ -163,7 +163,7 @@ export default function Table() {
 
     function Qidiruv(params) {
         console.log(params.target.value);
-        let sorchData = Data2.filter((arr, i) => {
+        let sorchData = Data1.filter((arr, i) => {
             return arr.id.includes(params.target.value)
         })
         setData1([...sorchData])
