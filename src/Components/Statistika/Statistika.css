@@ -1,0 +1,56 @@
+.cards{
+    width: 500px;
+    height: 200px;
+    /* background-color: black; */
+}
+ .card{
+    width:317px;
+    height: 150px;
+    box-shadow: 0px 0px 8px 0;
+}
+.Oy_Statistikasi{
+    width: 100%;
+    height: 100px;
+    /* background-color: red; */
+}
+
+.dashboard{
+    background-color: #325ECD;
+    width:320px;
+    height:900px;
+}
+
+.icons__h4{
+    margin-top: 70px;
+    transition: 0.4s;
+}
+.icons__h4:hover{
+    background-color: white;
+    transition: 0.4s;
+}
+.icons__h4:hover h4 ,.icons__h4:hover .svg{
+    color: blue;
+}
+
+.h4{
+    color: white;
+}
+.svg:hover{
+    color: blue;
+}
+
+.img:hover{
+    width: 200px;
+    height: 200px;
+    background-color: #325ECD;
+    position: absolute;
+    top: 0;
+    left: 1400px;
+}
+
+.input{
+    width: 300px;
+    background-color:#EAF0FF ;
+    color:#EAF0FF ;
+    border-radius: 20px;
+}

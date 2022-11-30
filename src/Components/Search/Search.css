@@ -1,0 +1,45 @@
+.SearchIcon{
+    position: absolute;
+    color: blue;
+    right: 30px;
+    top: 10px;
+}
+.SeachFather{
+    position: relative;
+    
+}
+
+.Search{
+    background-color:#EAF0FF ;
+    border:1px solid #EAF0FF ;
+}
+.Bell{
+    color: blue;
+    font-size: 20px;
+    margin-top: 3px;
+}
+.UserFuther{
+    background-color: #EAF0FF;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    margin-left: -35px;
+    margin-top: -3px;
+    border-radius: 50px;
+}
+.col-1{
+    position: relative;
+}
+.Point{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background-color: orange;
+    color: orange;
+    border-radius: 50px;
+    top: 7px;
+    left: 23px;
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Faol foydalanuvchilar",
+        "count":"1.5 mln",
+        "img":"./images/Bitmap.png",
+        "img2":"./images/OshishStatistika.png",
+        "Foyzlar":"+15%",
+        "rang":"text-success"
+    },
+    {
+        "name":"Shaxsini tasdiqlagan",
+        "count":"625.1k",
+        "img":"./images/Vector shaxs.png",
+        "img2":"./images/OshishStatistika.png",
+        "Foyzlar":"+15%",
+        "rang":"text-success"
+    },
+    {
+        "name":"Shubhali foydalanuvchi",
+        "count":"5.1k",
+        "img":"./images/question-svgrepo-com 1.png",
+        "img2":"./images/PasayshStatistika.png",
+        "Foyzlar":"-3.5%",
+        "rang":"text-danger"
+    },
+    {
+        "name":"Faol bo'lmagan",
+        "count":"25.1k",
+        "img":"./images/Group 2535814.png",
+        "img2":"./images/OshishStatistika.png",
+        "Foyzlar":"+15%",
+        "rang":"text-success"
+    },
+    {
+        "name":"Soliq xodimlari",
+        "count":"2.1k",
+        "img":"./images/policeman-svgrepo-com 1.png",
+        "img2":"./images/OshishStatistika.png",
+        "Foyzlar":"+5%",
+        "rang":"text-success"
+    },
+    {
+        "name":"Yuklab olingan",
+        "count":"1.7 mln",
+        "img":"./images/download-svgrepo-com (6) 1.png",
+        "img2":"./images/OshishStatistika.png",
+        "Foyzlar":"+5%",
+        "rang":"text-success"
+    }
+]
